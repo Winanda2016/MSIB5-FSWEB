@@ -1,0 +1,3 @@
+Git Local
+perintah menambahkan branch bau => git branch "nama_branch"
+perintah menggabungkan kedua branch => git merge
